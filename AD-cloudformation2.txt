@@ -1,5 +1,5 @@
 ---
-AWSTemplateFormatVersion: '2022-07-15'
+AWSTemplateFormatVersion: '2010-09-09'
 Description: >
   Provision AWS Managed Active Directory
 Metadata:
